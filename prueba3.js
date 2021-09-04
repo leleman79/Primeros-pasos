@@ -1,0 +1,1 @@
+var study = ['leer', 'ver videos', 'hacer practicas', 'tomar notas'];
